@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382766602802",
+    "project_id": "goandgo-ade9b",
+    "storage_bucket": "goandgo-ade9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382766602802:android:e5bc04b6bd34f5eb76fa2b",
+        "android_client_info": {
+          "package_name": "com.powerrangers.goandgo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFRtC7kL4a8T6zgzSgq0FdiirclIQPl1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
